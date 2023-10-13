@@ -7,7 +7,7 @@ Meu nome é Mateus Cerqueira Rangel, mas pode me chamar de Rangel. Sou **Desenvo
 
 </p>
 
-[![Linkedin](https://img.shields.io/badge/mateus%20rangel%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-rangel-57786922b/) 
+[![Linkedin](https://img.shields.io/badge/mateus%20rangel%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rangel-57786922b/) 
 
 
 ### My Skills:
