@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=MateusRangel1101&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=MateusRangel1101&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/MateusRangel1101?label=Follow&style=social)
   
-Meu nome é Mateus Cerqueira Rangel, mas pode me chamar de Rangel. Sou **Desenvolvedor Back-End**, formado em Análise e Desenvolvimento de Sistemas em 2016.
+Meu nome é Mateus Cerqueira Rangel, mas pode me chamar de Rangel. Sou **Desenvolvedor Back-End**, formado em Análise e Desenvolvimento de Sistemas.
 
 </p>
 
