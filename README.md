@@ -11,7 +11,7 @@ Meu nome é Mateus Cerqueira Rangel, mas pode me chamar de Rangel. Sou **Desenvo
 
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,postgres,git,github)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRangel1101&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
