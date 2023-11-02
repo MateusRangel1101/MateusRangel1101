@@ -13,6 +13,13 @@ Meu nome é Mateus Cerqueira Rangel, mas pode me chamar de Rangel. Sou **Desenvo
 ### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,postgres,git,github)](https://skillicons.dev)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRangel1101&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=MateusRangel1101&theme=onedark&margin-w=4)
+<div>
+<a href="https://www.linkedin.com/in/mateus-rangel-57786922b/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRangel1101&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRangel1101&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+</p>
+
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=MateusRangel1101&theme=dracula&margin-w=4)
